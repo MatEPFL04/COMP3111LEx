@@ -16,4 +16,8 @@ public class myLibrary {
             return n * factorial(n - 1);
         }
     }
+
+    public static int multiplyBy(int n, int m) {
+        return m * n;
+    }
 }
